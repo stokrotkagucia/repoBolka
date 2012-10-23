@@ -1,4 +1,3 @@
-test
+repoBolka
 ====
-
-test repository 1
+repository repoBolka
